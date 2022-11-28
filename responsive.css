@@ -6,7 +6,7 @@
     }
     
     .top-wrapper h1 {
-      font-size: 80px;
+      font-size: 70px;
       text-align: center;
     }
 
@@ -16,7 +16,7 @@
     }
 
     .Gambar{
-      max-width: 20%;
+      max-width: 35%;
       display: block;
       height: auto;
       margin-left: auto;
@@ -47,8 +47,17 @@
       width: 100%;
     }
     
-    .top-wrapper {
-      text-align: left;
+    .top-wrapper{
+      width: 100%;
+    }
+
+
+    .Gambar{
+      max-width: 35%;
+      display: block;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
     }
     
    label #btn{
@@ -89,13 +98,14 @@
       display: block;
     }
     .top-wrapper h1 {
-      font-size: 65px;
+      font-size: 57px;
       line-height: 36px;
     }
     
     .top-wrapper p {
-      font-size: 30px;
-      line-height: 20px;
+      font-size: 25px;
+      line-height: 30px;
+      margin-bottom: 10px;
     }
 
     .form-control{
